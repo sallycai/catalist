@@ -1,4 +1,378 @@
 Rails.application.routes.draw do
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/c'
+
+  get 'goals/rc'
+
+  get 'goals/rc'
+
+  get 'goals/rc'
+
+  get 'goals/rc'
+
+  get 'goals/rc'
+
+  get 'goals/rc'
+
+  get 'goals/rc'
+
+  get 'goals/rc'
+
+  get 'goals/rc'
+
+  get 'goals/rc'
+
+  get 'goals/rc'
+
+  get 'goals/rc'
+
+  get 'goals/rec'
+
+  get 'goals/rec'
+
+  get 'goals/rec'
+
+  get 'goals/rec'
+
+  get 'goals/rec'
+
+  get 'goals/rec'
+
+  get 'goals/rec'
+
+  get 'goals/rec'
+
+  get 'goals/rec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/raec'
+
+  get 'goals/ra'
+
   get 'sessions/new'
 
   root 'static_pages#index'
