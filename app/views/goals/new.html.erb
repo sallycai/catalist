@@ -1,6 +1,11 @@
-<%= form_for(@goal) do |f| %>
-  <div class="field">What would like to achieve? <br>
-    <%= f.text_area :name, placeholder: "What is your goal?" %>
+<div class="box">
+  <h2 class="box-title">What would you like to achieve?</h2>
+  <div class="box-inner">
+    <%= form_for(@goal) do |f| %>
+     <div class="form-group">
+       <%= f.text_area :name, class: "form-control", placeholder: "eg. I want to get fit this year" %>
+     </div>
+     <%= f.submit "Create", class: "btn btn-primary" %>
+    <% end %>
+    </div>
   </div>
-  <%= f.submit "Create", class: "btn btn-primary" %>
-<% end %>
