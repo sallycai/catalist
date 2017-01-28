@@ -18,10 +18,6 @@ end
     end
   end
   
-def task
-  @goal = Goal.find(params[:id])
-  @task = @goal.tasks
-end
 
   private
   def goal_params
