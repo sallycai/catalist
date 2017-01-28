@@ -1,10 +1,8 @@
 class GoalsController < ApplicationController
 before_filter :logged_in_user, only: [:show,:create, :edit]
-
 def index
- @goals = current_user.goals
+  @goals = current_user.goals
 end
-
 
 def new
  @goal = current_user.goals.build if logged_in?
@@ -20,6 +18,11 @@ end
     end
   end
   
+def task
+  @goal = Goal.find(params[:id])
+  @task = @goal.tasks
+end
+
   private
   def goal_params
     params.require(:goal).permit(:name)

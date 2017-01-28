@@ -1,8 +1,16 @@
 <div class="panel panel-default">
-  <div class="panel-heading"> Goals </div>
+  <div class="panel-heading"> My Goals </div>
+ 
   <% @goals.each do |g| %>
   <div class="panel-body">
-      <span><%= g.name %></span></div>
+      <span>Goal: <%= g.name %></span><br>
+      <span>Tasks: <%= g.tasks.name %></span></div>
+      
+          <li><%= link_to new_task_path(goal_id: g.id) do %>
+                  <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                Add a task
+              <% end %>      
+            </li>
   <% end %>
 </div>
 
